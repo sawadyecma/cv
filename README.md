@@ -24,7 +24,7 @@
 Ruby | Python | PHP | Go | JavaScript | TypeScript | Bash
 
 ### フレームワーク等
-Ruby on Rails | Django | Flask | CakePHP | Echo | jQuery | React.js | Next.js
+Ruby on Rails | Django | Flask | CakePHP | Echo | Gorm | jQuery | React.js | Next.js | Nest.js | TypeOrm
 
 ### データベース
 MySQL | PostgreSQL | MongoDB
@@ -36,7 +36,7 @@ Keras | Tensorflow | OpenCV | MeCab | Numpy
 ### クラウド
 
 #### AWS
-VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | SES | Cloud Formation | Cloud Watch
+VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | SES | Cloud Formation | Cloud Watch Logs | Sage Maker |
 
 #### GCP
 GCS | IAM | Speech To Text | Vision API
