@@ -36,7 +36,7 @@ Keras | Tensorflow | OpenCV | MeCab | Numpy
 ### クラウド
 
 #### AWS
-VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | SES | Cloud Formation | Cloud Watch Logs | Sage Maker |
+VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | SES | Cloud Formation | Cloud Watch Logs | Sage Maker | ElastiCache for Redis
 
 #### GCP
 GCS | IAM | Speech To Text | Vision API
