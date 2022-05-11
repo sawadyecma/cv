@@ -23,7 +23,7 @@
 - 以下、実業務で使用した技術を列挙します。
 
 ### 言語
-Ruby | Python | PHP | Go | JavaScript | TypeScript | Bash
+Go | TypeScript | JavaScript | Ruby | Python | PHP  | Bash
 
 ### フレームワーク等
 React.js | Next.js | Nest.js | TypeOrm | Ruby on Rails | Django | Flask | CakePHP | Echo | Gorm | jQuery | 
@@ -33,7 +33,6 @@ MySQL | PostgreSQL | MongoDB | DynamoDB
 
 ### 機械学習・データ分析
 Keras | Tensorflow | OpenCV | MeCab | Numpy
-
 
 ### クラウド
 
@@ -71,5 +70,4 @@ Twilio | GraphQL | ApolloClient | GitHub | GitHub Actions | Docker | Nginx | Apa
 | 画像判定のAI開発 | PoC・データ収集・データ加工・モデル作成 | Python / Tensorflow |
 | 電子カルテシステム | 設計・フロントエンド開発を担当 | React / redux-toolkit |
 
-フロントエンド:バックエンド:インフラ:機械学習系 = 4:4:1.5:0.5
-のイメージ
+フロントエンド:バックエンド:インフラ:機械学習系 = 4:4:1.5:0.5 のイメージ
