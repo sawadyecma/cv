@@ -65,9 +65,9 @@ Twilio | GraphQL | ApolloClient | GitHub | GitHub Actions | Docker | Nginx | Apa
 | Web問診票 | フロントエンドをメイン。バックエンドは機能追加を担当。| React/ ApolloClient/ useContext / AWS Appsync/ AWS DynamoDB |
 | Web予約 | PHP→Goのリプレイス。バックエンドを担当。| Go / echo / gorm / AWS ECS |
 | 診療資料のストレージ機能 | PHP→Goのリプレイス。バックエンド・APIとバッチ処理のインフラ構築を担当。 | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
-| 精密検査用ツール | Poc,API設計を担当。検査用の手書き文字認識モデルを作成。 | Python / Keras / Swagger |
+| 精密検査用ツール | Poc・API設計を担当。検査用の手書き文字認識モデルを作成。 | Python / Keras / Swagger |
 | マルチユーザー対応 | 新規バックエンド開発 | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
-| 画像判定のAI開発 | PoC,データ収集,データ加工,モデル作成 | Python / Tensorflow |
+| 画像判定のAI開発 | PoC・データ収集・データ加工・モデル作成 | Python / Tensorflow |
 | 電子カルテシステム | 設計・フロントエンド開発を担当 | React / redux-toolkit |
 
 フロントエンド:バックエンド:インフラ:機械学習系 = 4:4:1.5:0.5
