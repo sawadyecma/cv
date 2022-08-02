@@ -68,6 +68,6 @@ Twilio | GraphQL | ApolloClient | GitHub | GitHub Actions | Docker | Nginx | Apa
 | 精密検査用ツール | Poc・API設計を担当。検査用の手書き文字認識モデルを作成。 | Python / Keras / Swagger |
 | マルチユーザー対応 | 新規バックエンド開発 | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
 | 画像判定のAI開発 | PoC・データ収集・データ加工・モデル作成 | Python / Tensorflow |
-| 電子カルテシステム | 設計・フロントエンド開発を担当 | React / redux-toolkit |
+| 電子カルテシステム | 設計・フロントエンド開発のリーダーを担当 | React / redux-toolkit / fabric.js |
 
 フロントエンド:バックエンド:インフラ:機械学習系 = 4:4:1.5:0.5 のイメージ
