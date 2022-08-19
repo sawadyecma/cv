@@ -13,9 +13,7 @@
 
 - 静岡育ちなので温厚。
 - React/Canvas/Svgなどでぐりぐり動くGUIを作ることに興味関心が高い。
-- Webフロントが主ですが、バックエンド・インフラいづれも担当可能。
-
-## 経験年数(実務のみ)
+- Webフロントが主ですが、バックエンド・インフラも担当可能。
 
 | スキル | 年数 |
 |------------|----|
@@ -23,6 +21,8 @@
 | React | 2.5年 |
 | Go | 2年 |
 | AWS | 2年 |
+| Python | 1年 |
+| Ruby on Rails | 1年 |
 
 
 ## スキル
@@ -59,7 +59,7 @@ Twilio | GraphQL | ApolloClient | GitHub | GitHub Actions | Docker | Nginx | Apa
 
 |開発したシステム|担当領域|技術スタック|
 |------------|-------|---------|
-| Web問診票 | フロントエンドをメイン。バックエンドは機能追加を担当。| React/ ApolloClient/ useContext / AWS Appsync/ AWS DynamoDB |
+| Web問診票 | フロントエンドをメイン。バックエンドは機能追加を担当。| React/ ApolloClient/ useContext / AWS Appsync / AWS DynamoDB |
 | Web予約 | PHP→Goのリプレイス。バックエンドを担当。| Go / echo / gorm / AWS ECS |
 | 診療資料のストレージ機能 | PHP→Goのリプレイス。バックエンド・APIとバッチ処理のインフラ構築を担当。認証周りの設計・実装も担当。 | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
 | 精密検査用ツール | Poc・API設計を担当。検査用の手書き文字認識モデルを作成。 | Python / Keras / Swagger |
