@@ -16,8 +16,8 @@
 
 | スキル | 年数 |
 |------------|----|
-| TypeScript | 3年 |
-| React | 3.5年 |
+| TypeScript | ４年 |
+| React | 4.5年 |
 | Go | 2年 |
 | AWS | 2年 |
 | Python | 1年 |
@@ -30,8 +30,11 @@
 ### 言語
 Go | TypeScript | JavaScript | Ruby | Python | PHP  | Bash
 
-### フレームワーク等
-React.js | Next.js | Nest.js | TypeOrm | Ruby on Rails | Django | Flask | CakePHP | Echo | Gorm | jQuery | fabric.js | Node.js | Express
+### フレームワーク・ライブラリ
+Ruby on Rails | Django | Flask | CakePHP | Echo | Gorm | 
+
+#### JS系
+React.js | Next.js | Nest.js | TypeOrm | jQuery | fabric.js | Node.js | Express | SWR | zod | Material UI | Ant Design | ApolloClient
 
 ### データベース
 MySQL | PostgreSQL | MongoDB | DynamoDB 
@@ -48,9 +51,21 @@ VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | ALB | Route53 | IA
 GCS | IAM | Speech To Text | Vision API
 
 ### その他
-Twilio | GraphQL | ApolloClient | GitHub | GitHub Actions | Docker | Nginx | Apache 
+Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apache 
 
 ## 主な業務経歴
+
+### 2022年-2023年
+- 大手銀行へのソリューション事業を行っている企業に業務委託として参画
+- 相続手続のサポートを目的としたサービスの開発
+- フロントエンドエンジニアとして開発初期の立ち上げ
+- マス顧客向け・士業向け・管理者向けの3アプリケーションを横断開発
+- 開発初期の技術選定・設計方針後めを促進
+- UI/UXデザインテームと協業・デザインシステムの構築
+- サーバー負荷対策・APIのライフサイクルに応じたキャッシュの取り扱い実装
+- 共通パッケージへの切り出しやパッケージ構成の構築
+- モノレポに最適な開発ツールやフォルダ構成の導入
+
 
 ### 2020年-2022年
 - 日本人の健康寿命の向上に取り組むべく、歯科関連のスタートアップでSaaSを開発
