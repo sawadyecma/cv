@@ -66,6 +66,7 @@ Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apache
 - 共通パッケージへの切り出しや適切なパッケージ構成の検討
 - モノレポに最適な開発ツールやフォルダ構成の導入
 
+技術スタック: TypeScript/React(18系)/Next.js
 
 ### 2020年-2022年
 - 日本人の健康寿命の向上に取り組むべく、歯科関連のスタートアップでSaaSを開発
