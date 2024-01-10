@@ -43,13 +43,13 @@ And I have listed up the skills which I used in my practical works below.
 
 |name|items|
 |---|---|
-|Js Related|Next.js, Nest.js, TypeOrm, jQuery, fabric.js, Node.js, Express, SWR, zod, Material UI, Ant Design, ApolloClient, emotion, dnd-kit, Vite, Vitest, Jest|
+|Js Related|Next.js, Nest.js, TypeOrm, jQuery, fabric.js, Node.js, Express, SWR, zod, Material UI, Ant Design, ApolloClient, emotion, dnd-kit, Vite, Vitest, Jest, Redux, redux-toolkit|
 |Go Related|Gorm, Echo|
-|AWS|VPC, S3, API Gateway, Lambda, EC2, ECS, ECR, Fargate, ALB, Route53, IAM, Cognito, RDS(MySQL|PostgreSQL), DynamoDB, SES, Cloud Formation, Cloud Watch Logs, Cloud Watch Event, Sage Maker, ElastiCache for Redis, CDK, SAM|
+|AWS|VPC, S3, API Gateway, Lambda, EC2, ECS, ECR, Fargate, ALB, Route53, IAM, Cognito, RDS(MySQL|PostgreSQL), DynamoDB, Appsync, SES, Cloud Formation, Cloud Watch Logs, Cloud Watch Event, Sage Maker, CodePipeline, ElastiCache for Redis, CDK, SAM|
 |GCP|GCS, IAM, Speech To Text, Vision API|
 |Database| MySQL, PostgreSQL, MongoDB, DynamoDB |
 |ML and Analysis| Python, Keras, Tensorflow, OpenCV, MeCab, Numpy|
-|Other|Twilio, GraphQL, GitHub, GitHub Actions, Docker, Nginx, Apache, Ruby on Rails |
+|Other|Twilio, Swagger, GraphQL, GitHub, GitHub Actions, Docker, Nginx, Apache, Ruby on Rails |
 
 
 ## Experiences
@@ -63,21 +63,23 @@ T.B.D
 ### 2020.04 - 2022.09 
 - To improve the Japanese dental health, I had been working in a startup company providing a Saas for dental offices.
 - These are projects which I joined in the company.
+- I had been working as a lead engineer.
+
 
 |Feature|Responsibility|Skills|
 |------------|-------|---------|
-| web interview | フロントエンドをメイン。バックエンドは機能追加を担当。| React/ ApolloClient/ useContext / AWS Appsync / AWS DynamoDB |
-| web reservation | PHP→Goのリプレイス。バックエンドを担当。| Go / echo / gorm / AWS ECS |
-| patient's image storage | PHP→Goのリプレイス。バックエンド・APIとバッチ処理のインフラ構築を担当。認証周りの設計・実装も担当。 | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
-| examination record tool | Poc・API設計を担当。検査用の手書き文字認識モデルを作成。 | Python / Keras / Swagger |
-| user managenent | 新規バックエンド開発 | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
-| model development which distinguish oral images | PoC・データ収集・データ加工・モデル作成 | Python / Tensorflow |
-| electric kurte system | 設計・フロントエンド開発のチームリーダーを担当。fabric.jsを使ってcanvas上で動くGUIを実装。 | React / redux-toolkit / fabric.js |
+| web interview | Designing GraphQL Schema and implement frontend application.| React/ ApolloClient/ useContext / AWS Appsync / AWS DynamoDB |
+| web reservation | Replacing php to Go as a backend engineer | Go / echo / gorm / AWS ECS |
+| patient's image storage | Replacing php to Go. Deploying API and batch process infrastructure. design and implement autentication and authorization. | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
+| examination record tool | responsible for PoC and designing. Making handwriting text recognition model for examination. | Python / Keras / Swagger |
+| user managenent | responsible for designing Rest API and developing and deploying backend server | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
+| model development which distinguish oral images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
+| electric kurte system | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
 
 ### 2019.07 - 2020.03
 - To deal with a business inheritance issue in Japan, I joined a startup company providing a Saas related M&A.
 - I developed the features such as OCR for financial reports, valuation calculator for private companies and tool to assist for making contracts.
 
 ### 2014.04 - 2019.03
-- I had been leaning computer science, especially about natural language process, machine learning.
+- I had been leaning computer science, especially natural language process　and machine learning.
 - I developed the CNN model which can distinguish whether an input text is dajare or not. (Dajare is a kind of Japanese play of words)
