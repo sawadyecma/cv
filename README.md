@@ -58,8 +58,16 @@ And I have listed up the skills which I used in my practical works below.
 ### 2023.10 ~ current - Real Estate Start-up
 T.B.D
 
-### 2022.10 ~ 2023.09 - Fintech Start-up
-T.B.D
+### 2022.10 ~ 2023.09 - Fintech Company
+- I joined a company having solution business to a Japanese huge bank as a freelance engineer.
+- Develop and launch the service to assist mass customers’ inheritance tasks.
+- As a frontend developer, I made a basic code on the application such as rpc client, web storage manager and common error handling flow.
+- I developed 3 application, customer service, service for advertiser and management service, cross-sectionally.
+- At the beginning of the development, I encourage the team to decide which technologies we should use, make policies for programming.
+- Collaborate with the UI/UX designer team to build a design system and user-friendly pages.
+- Implement frontend cache design in order to reduce server load and adjust  the life cycles of resources.
+- Create library for the common process  including domain logic and consider efficient way to commonize and separate the responsibility of modules.
+- Introduce appropriate tools and directry structures for monorepo.
 
 ### 2020.04 ~ 2022.09 - Dental Health Medium-Sized　Company
 - To improve the Japanese dental health, I had been working in a company providing a Saas for dental offices.
