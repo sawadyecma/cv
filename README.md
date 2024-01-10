@@ -26,6 +26,7 @@ In the end, I love third wave coffee, impressionism arts and alternative/indie b
 - Development of new product
 - Creating basic codes and Deciding a policy of writing codes
 - Discussing API specification with backend engineers
+- Fixing OSS libraries which is used in applications.
 
 And I have listed up the skills which I used in my practical works below.
 
