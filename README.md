@@ -75,7 +75,7 @@ T.B.D
 | Examination Record Tool | responsible for PoC and designing. Making handwriting text recognition model for examination. | Python / Keras / Swagger |
 | User Managenent | responsible for designing Rest API and developing and deploying backend server | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
 | Model Development Distinguishing Oral Images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
-| Electric Kurte System | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
+| Electric Karte System | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
 
 ### 2019.07 - 2020.03
 - To deal with a business inheritance issue in Japan, I joined a startup company providing a Saas related M&A.
