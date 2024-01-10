@@ -12,7 +12,7 @@ In terms of programming, also I love to find an abstract way to think.
 For example, the way to write a readable and resusable code, the new discovery on the business domain.
 This is why I love programming.
 
-In the end, I love third wave coffee, impressionism arts and alternative/indie band's songs.
+In the end of this section, I love third wave coffee, impressionism arts and alternative/indie band's songs.
 
 
 ## Skills
