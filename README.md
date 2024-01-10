@@ -74,7 +74,7 @@ T.B.D
 | Patient's Image Storage | Replacing php to Go. Deploying API and batch process infrastructure. design and implement autentication and authorization. | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
 | Examination Record Tool | responsible for PoC and designing. Making handwriting text recognition model for examination. | Python / Keras / Swagger |
 | User Managenent | responsible for designing Rest API and developing and deploying backend server | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
-| Model development which distinguish oral images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
+| Model Development Distinguishing Oral Images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
 | Electric Kurte System | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
 
 ### 2019.07 - 2020.03
