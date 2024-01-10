@@ -69,13 +69,13 @@ T.B.D
 
 |Feature|Responsibility|Skills|
 |------------|-------|---------|
-| web interview | Designing GraphQL Schema and implement frontend application.| React/ ApolloClient/ useContext / AWS Appsync / AWS DynamoDB |
-| web reservation | Replacing php to Go as a backend engineer | Go / echo / gorm / AWS ECS |
-| patient's image storage | Replacing php to Go. Deploying API and batch process infrastructure. design and implement autentication and authorization. | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
-| examination record tool | responsible for PoC and designing. Making handwriting text recognition model for examination. | Python / Keras / Swagger |
-| user managenent | responsible for designing Rest API and developing and deploying backend server | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
-| model development which distinguish oral images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
-| electric kurte system | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
+| Web Interview | Designing GraphQL Schema and implement frontend application.| React/ ApolloClient/ useContext / AWS Appsync / AWS DynamoDB |
+| Web Reservation | Replacing php to Go as a backend engineer | Go / echo / gorm / AWS ECS |
+| Patient's Image Storage | Replacing php to Go. Deploying API and batch process infrastructure. design and implement autentication and authorization. | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
+| Examination Record Tool | responsible for PoC and designing. Making handwriting text recognition model for examination. | Python / Keras / Swagger |
+| User Managenent | responsible for designing Rest API and developing and deploying backend server | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
+| Model development which distinguish oral images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
+| Electric Kurte System | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
 
 ### 2019.07 - 2020.03
 - To deal with a business inheritance issue in Japan, I joined a startup company providing a Saas related M&A.
