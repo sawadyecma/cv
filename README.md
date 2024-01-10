@@ -19,14 +19,14 @@ In the end of this section, I love third wave coffee, impressionism arts and alt
 
 - Bachelor's degree in computer science, software engineering
 - 5+ years’ experience in Front End such as React/jQuery
-- Working in an Agile environmen
-- Elliminating technology debt
-- Collaborating with backend engineers, mobile engineers, product managers and UI/UX designers
-- Building a Design System with UI/UX designers
-- Development of new product
-- Creating basic codes and Deciding a policy of writing codes
-- Discussing API specification with backend engineers
-- Fixing OSS libraries which is used in applications.
+- Work in an Agile environmen
+- Elliminate technology debt
+- Collaborate with backend engineers, mobile engineers, product managers and UI/UX designers
+- Build a Design System with UI/UX designers
+- Develop new product
+- Create basic codes and Deciding a policy of writing codes
+- Discuss API specification with backend engineers
+- Fix OSS libraries which is used in applications.
 
 And I have listed up the skills which I used in my practical works below.
 
@@ -69,13 +69,13 @@ T.B.D
 
 |Feature|Responsibility|Skills|
 |------------|-------|---------|
-| Web Interview | Designing GraphQL Schema and implement frontend application.| React/ ApolloClient/ useContext / AWS Appsync / AWS DynamoDB |
-| Web Reservation | Replacing php to Go as a backend engineer | Go / echo / gorm / AWS ECS |
-| Patient's Image Storage | Replacing php to Go. Deploying API and batch process infrastructure. design and implement autentication and authorization. | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
-| Examination Record Tool | responsible for PoC and designing. Making handwriting text recognition model for examination. | Python / Keras / Swagger |
-| User Managenent | responsible for designing Rest API and developing and deploying backend server | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
-| Model Development Distinguishing Oral Images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
-| Electric Karte System | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
+| Web Interview | Design GraphQL Schema and implement frontend application.| React/ ApolloClient/ useContext / AWS Appsync / AWS DynamoDB |
+| Web Reservation | Replace php to Go as a backend engineer | Go / echo / gorm / AWS ECS |
+| Patient's Image Storage | Replace php to Go. Deploy API and batch process infrastructure. Design and implement autentication and authorization. | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
+| Examination Record Tool | PoC design and make handwriting text recognition model for examination. | Python / Keras / Swagger |
+| User Managenent | Design Rest API and develop and deploy backend server | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
+| Model Development Distinguishing Oral Images | PoC, Collect processing training data and create model. | Python / Tensorflow |
+| Electric Karte System | Design and develop GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
 
 ### 2019.07 ~ 2020.03 - Fintech Start-up
 - To deal with a business inheritance issue in Japan, I joined a start-up company providing a Saas related M&A.
