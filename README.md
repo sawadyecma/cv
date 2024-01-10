@@ -55,14 +55,14 @@ And I have listed up the skills which I used in my practical works below.
 
 ## Experiences
 
-### 2023.10 - current
+### 2023.10 ~ current - Real Estate Start-up
 T.B.D
 
-### 2022.10 - 2023.09
+### 2022.10 ~ 2023.09 - Fintech Start-up
 T.B.D
 
-### 2020.04 - 2022.09 
-- To improve the Japanese dental health, I had been working in a startup company providing a Saas for dental offices.
+### 2020.04 ~ 2022.09 - Dental Health Start-up
+- To improve the Japanese dental health, I had been working in a start-up company providing a Saas for dental offices.
 - These are projects which I joined in the company.
 - I had been working as a lead engineer.
 
@@ -77,10 +77,10 @@ T.B.D
 | Model Development Distinguishing Oral Images | PoC. Collecting and processing training data. Creating Model. | Python / Tensorflow |
 | Electric Karte System | Designing and Developing GUI frontend application made by fabric.js.  | React / redux-toolkit / fabric.js |
 
-### 2019.07 - 2020.03
-- To deal with a business inheritance issue in Japan, I joined a startup company providing a Saas related M&A.
+### 2019.07 ~ 2020.03 - Fintech Start-up
+- To deal with a business inheritance issue in Japan, I joined a start-up company providing a Saas related M&A.
 - I developed the features such as OCR for financial reports, valuation calculator for private companies and tool to assist for making contracts.
 
-### 2014.04 - 2019.03
+### 2014.04 ~ 2019.03 - Hokkaido University
 - I had been leaning computer science, especially natural language process　and machine learning.
 - I developed the CNN model which can distinguish whether an input text is dajare or not. (Dajare is a kind of Japanese play of words)
