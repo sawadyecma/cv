@@ -56,7 +56,10 @@ And I have listed up the skills which I used in my practical works below.
 ## Experiences
 
 ### 2023.10 ~ current - Real Estate Start-up
-T.B.D
+- Currently, I'm working in a start-up running private lodging service.
+- Introduce testing tools to improve the quolity of the code.
+- Experience short period release cycle, deploying once a week.
+- Separate modules into appropriate responsibilities and sizes to make it easy to test.
 
 ### 2022.10 ~ 2023.09 - Fintech Company
 - I joined a company having solution business to a Japanese huge bank as a freelance engineer.
