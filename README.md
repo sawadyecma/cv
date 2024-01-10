@@ -61,8 +61,8 @@ T.B.D
 ### 2022.10 ~ 2023.09 - Fintech Start-up
 T.B.D
 
-### 2020.04 ~ 2022.09 - Dental Health Start-up
-- To improve the Japanese dental health, I had been working in a start-up company providing a Saas for dental offices.
+### 2020.04 ~ 2022.09 - Dental Health Medium-Sized　Company
+- To improve the Japanese dental health, I had been working in a company providing a Saas for dental offices.
 - These are projects which I joined in the company.
 - I had been working as a lead engineer.
 
