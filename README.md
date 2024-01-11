@@ -72,7 +72,7 @@ And I have listed up the skills which I used in my practical works below.
 - Create library for the common process  including domain logic and consider efficient way to commonize and separate the responsibility of modules.
 - Introduce appropriate tools and directry structures for monorepo.
 
-### 2020.04 ~ 2022.09 - Dental Health Medium-Sized　Company
+### 2020.04 ~ 2022.09 - Dental Health Medium-Sized Company
 - To improve the Japanese dental health, I had been working in a company providing a Saas for dental offices.
 - These are projects which I joined in the company.
 - I had been working as a lead engineer.
