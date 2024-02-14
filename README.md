@@ -57,7 +57,7 @@ And I have listed up the skills which I used in my practical works below.
 
 ### 2023.10 ~ current - Real Estate Start-up
 - Currently, I'm working in a start-up running private lodging service.
-- Introduce testing tools to improve the quolity of the code.
+- Introduce testing tools to improve the quolity of the code, which enables to test hooks with api stubing.
 - Experience short period release cycle, deploying once a week.
 - Separate modules into appropriate responsibilities and sizes to make it easy to test.
 
