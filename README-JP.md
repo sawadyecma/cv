@@ -16,12 +16,13 @@
 
 | スキル | 年数 |
 |------------|----|
-| TypeScript | ４年 |
-| React | 4.5年 |
+| TypeScript | 5年 |
+| React | 5.5年 |
 | Go | 2年 |
-| AWS | 2年 |
+| AWS | 2.5年 |
 | Python | 1年 |
 | Ruby on Rails | 1年 |
+| Rust | 1年 |
 
 
 ## スキル
