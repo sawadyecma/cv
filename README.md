@@ -34,8 +34,8 @@ And I have listed up the skills which I used in my practical works below.
 
 | name | years |
 |------------|----|
-| TypeScript | 4 |
-| React.js | 4.5 |
+| TypeScript | 6 |
+| React.js | 6.5 |
 | Go | 2 |
 | AWS | 2 |
 
@@ -44,7 +44,7 @@ And I have listed up the skills which I used in my practical works below.
 
 |name|items|
 |---|---|
-|Js Related|Next.js, Nest.js, TypeOrm, jQuery, fabric.js, Node.js, Express, SWR, zod, Material UI, Ant Design, ApolloClient, emotion, dnd-kit, Vite, Vitest, Jest, Redux, redux-toolkit|
+|Js Related|Next.js, Nest.js, TypeOrm, jQuery, fabric.js, Node.js, Express, SWR, zod, Material UI, Ant Design, ApolloClient, emotion, styled-component ,dnd-kit, Vite, Vitest, Jest, Redux, redux-toolkit, React Select|
 |Go Related|Gorm, Echo|
 |AWS|VPC, S3, API Gateway, Lambda, EC2, ECS, ECR, Fargate, ALB, Route53, IAM, Cognito, RDS(MySQL|PostgreSQL), DynamoDB, Appsync, SES, Cloud Formation, Cloud Watch Logs, Cloud Watch Event, Sage Maker, CodePipeline, ElastiCache for Redis, CDK, SAM|
 |GCP|GCS, IAM, Speech To Text, Vision API|
