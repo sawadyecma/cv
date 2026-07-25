@@ -5,21 +5,24 @@
 |key|value|
 |----|----|
 |生年|1995年|
-|居住地|東京都 世田谷区|
+|居住地|新潟県 燕市|
 |出身|静岡県 藤枝市|
+|語学|TOEIC 890点 / オーストラリア滞在経験あり|
 
 ## 概要
 
 - 静岡育ちなので温厚です。
 - React/Canvas/Svgなどでぐりぐり動くGUIを作ることに興味関心が高い。
-- Webフロントが主ですが、バックエンド・インフラも担当可能。
+- Webフロントが主ですが、バックエンド・インフラも担当可能。直近の案件では職務の境目なくフルスタックで開発しています。
+- 2024年から2026年にかけて、オーストラリアと日本を行き来しながらリモートで開発案件に従事していました。
+- Claude Codeを実装・レビュー・調査・設計・CI連携まで日常的に活用しています。
 
 | スキル | 年数 |
 |------------|----|
-| TypeScript | 5年 |
-| React | 5.5年 |
+| TypeScript | 7年 |
+| React | 7.5年 |
+| AWS | 4.5年 |
 | Go | 2年 |
-| AWS | 2.5年 |
 | Python | 1年 |
 | Ruby on Rails | 1年 |
 | Rust | 1年 |
@@ -29,16 +32,16 @@
 - 以下、実業務で使用した技術を列挙します。
 
 ### 言語
-Go | TypeScript | JavaScript | Ruby | Python | PHP  | Bash
+Go | TypeScript | JavaScript | Rust | Ruby | Python | PHP  | Bash
 
 ### フレームワーク・ライブラリ
-Ruby on Rails | Django | Flask | CakePHP | Echo | Gorm | 
+Ruby on Rails | Django | Flask | CakePHP | Echo | Gorm |
 
 #### JS系
-React.js | Next.js | Nest.js | TypeOrm | jQuery | fabric.js | Node.js | Express | SWR | zod | Material UI | Ant Design | ApolloClient
+React.js | Next.js | Nest.js | Hono | TypeOrm | jQuery | fabric.js | yjs | Node.js | Express | SWR | zod | Material UI | Ant Design | ApolloClient | styled-components | emotion
 
 ### データベース
-MySQL | PostgreSQL | MongoDB | DynamoDB 
+MySQL | PostgreSQL | MongoDB | DynamoDB
 
 ### 機械学習・データ分析
 Keras | Tensorflow | OpenCV | MeCab | Numpy
@@ -46,17 +49,47 @@ Keras | Tensorflow | OpenCV | MeCab | Numpy
 ### クラウド
 
 #### AWS
-VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | ALB | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | SES | Cloud Formation | Cloud Watch Logs | Cloud Watch Event | Sage Maker | ElastiCache for Redis | CDK | SAM 
+VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | ALB | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | SES | Cloud Formation | Cloud Watch Logs | Cloud Watch Event | Sage Maker | ElastiCache for Redis | CDK | SAM
 
 #### GCP
-GCS | IAM | Speech To Text | Vision API
+GCS | IAM | Speech To Text | Vision API | Route Optimization API
 
 ### その他
-Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apache 
+Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apache | WebAssembly
 
 ## 主な業務経歴
 
-### 2023年-2024年
+### 2026年2月-現在
+- 地域交通（MaaS）領域の事業会社に業務委託として参画
+- AIオンデマンド交通・自動運転サービスを扱う領域で、フルスタックエンジニアとして開発
+- 利用者向けアプリ・配車ドライバー向けアプリ・運行管理用の社内管理画面を横断して担当
+- フロントエンド:バックエンド:インフラ = 4:4:2 のイメージで、職務の境目なく開発
+- Google Route Optimization APIを用いたルート最適化の領域をリード。仕様の把握・整理の面でもチームをリード
+- スクラムチーム（PO 1名 / スクラムマスター 1名 / エンジニア4名、全員フルスタック）でベロシティの安定化に貢献
+  - デイリースクラムのアジェンダを「個人の進捗報告」から「PBI単位の進捗をチーム全員で確認する」形式に変更
+  - リソース効率よりもフロー効率を重視する考え方をチームに浸透
+- Claude Codeを実装・レビュー・調査・設計・CI連携まで全面的に活用。レトロスペクティブでチーム内に使い方を共有し合い、チームの開発スピードは体感2倍程度に向上
+
+技術スタック: TypeScript/React/Hono/AWS(Lambda)/Google Route Optimization API
+
+### 2025年4月-2025年8月
+- 大手文具メーカーの、学校法人向けWebデジタルノートシステムをフロントエンドエンジニアとして開発
+- 先生と生徒のやり取りをデジタル化することが目的。生徒向けのノートシステムと、先生向けの管理・添削システムを提供
+- フロントエンド4名・バックエンド4名程度のチームにメンバーとして参画。fabric.js・yjsの領域では最もリードする立ち位置
+- fabric.jsはライブラリ内部の実装を読み込むレベルまで深掘りし、要件に沿った描画の実装を担当
+  - オブジェクトの透過処理や画像処理の最適化による描画パフォーマンスの改善
+  - 難易度の高い描画系バグの調査・修正
+- yjs(CRDT)によるリアルタイムな同期を実装
+
+技術スタック: TypeScript/React/Next.js/styled-components/fabric.js/yjs
+
+### 2024年1月-2026年1月
+- オーストラリアでワーキングホリデーを経験
+- 季節労働として農業に従事し、様々な地域・職種で就労。多国籍な環境で働く経験を得る
+- 日本とオーストラリアを行き来しながら、開発案件にはリモートで並行して従事
+- TOEIC 890点
+
+### 2023年10月-2024年8月
 - 民泊の物件管理事業を行なっている企業に業務委託として参画
 - フロントエンドをリード。コード規則などの策定。
 - 小規模のスクラムチームでリリース頻度は週に一度。
@@ -105,5 +138,7 @@ Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apache
 
 ## 最近の興味
 
+- AIエージェントを活用した開発プロセスの改善
+- ルート最適化・組合せ最適化
 - Rust
 - 競技プログラミング
