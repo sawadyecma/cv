@@ -123,6 +123,7 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
 ### 2022.10 - 2023.09 | 金融・相続ソリューション（業務委託）
 
 - **役割**: フロントエンドエンジニア（開発初期の立ち上げ）
+- **体制**: フロントエンド 3名・バックエンド 2.5名・インフラ 2名
 - **技術**: TypeScript, React(18系), Next.js
 
 **担当・成果**
@@ -137,7 +138,7 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
 
 ---
 
-### 2020.04 - 2022.09 | 歯科医療SaaS
+### 2020.04 - 2022.09 | 歯科医療SaaS（正社員）
 
 - **役割**: リードエンジニア（フロントエンド:バックエンド:インフラ:機械学習 = 4:4:1.5:0.5）
 - **技術**: Go, React, Python, AWS, PHP（詳細は下表）
@@ -159,9 +160,10 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
 
 ---
 
-### 2019.07 - 2020.03 | M&A・FinTech スタートアップ
+### 2019.07 - 2020.03 | M&A・FinTech スタートアップ（正社員）
 
 - **役割**: エンジニア（フロントエンド:バックエンド:データ分析 = 4:5:1）
+- **技術**: Ruby on Rails, React, jQuery
 
 **担当・成果**
 

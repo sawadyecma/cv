@@ -122,6 +122,7 @@ And I have listed up the skills which I used in my practical works below.
 ### 2022.10 - 2023.09 | Fintech / Inheritance Solution (Freelance)
 
 - **Role**: Frontend engineer (launching the development from the beginning)
+- **Team**: 3 frontend engineers, 2.5 backend engineers and 2 infrastructure engineers
 - **Skills**: TypeScript, React(v18), Next.js
 
 **Responsibilities and Achievements**
@@ -137,7 +138,7 @@ And I have listed up the skills which I used in my practical works below.
 
 ---
 
-### 2020.04 - 2022.09 | Dental Health SaaS
+### 2020.04 - 2022.09 | Dental Health SaaS (Full-time)
 
 - **Role**: Lead engineer (frontend : backend : infrastructure : machine learning = 4 : 4 : 1.5 : 0.5)
 - **Skills**: Go, React, Python, AWS, PHP (see the table below)
@@ -159,9 +160,10 @@ And I have listed up the skills which I used in my practical works below.
 
 ---
 
-### 2019.07 - 2020.03 | M&A Fintech Start-up
+### 2019.07 - 2020.03 | M&A Fintech Start-up (Full-time)
 
 - **Role**: Engineer (frontend : backend : data analysis = 4 : 5 : 1)
+- **Skills**: Ruby on Rails, React, jQuery
 
 **Responsibilities and Achievements**
 
