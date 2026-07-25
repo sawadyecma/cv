@@ -2,14 +2,15 @@
 
 ## Personal Summary
 
-I was born and raised in Japan. 
-I'm curious about working with people who have various nationalities and cultures. 
-Though them, I believe that I can realize my own identities.
+I was born and raised in Japan.
+I'm curious about working with people who have various nationalities and cultures.
+Through them, I believe that I can realize my own identities.
+From 2024 to 2026, I stayed in Australia on a working holiday, going back and forth between Australia and Japan while continuing to work remotely as an engineer. (TOEIC 890)
 
-I'm usually an calm person. As a professional, I cherish keeping my motivation.
+I'm usually a calm person. As a professional, I cherish keeping my motivation.
 
 In terms of programming, also I love to find an abstract way to think.
-For example, the way to write a readable and resusable code, the new discovery on the business domain.
+For example, the way to write a readable and reusable code, the new discovery on the business domain.
 This is why I love programming.
 
 In the end of this section, I love third wave coffee, impressionism arts and alternative/indie band's songs.
@@ -18,15 +19,17 @@ In the end of this section, I love third wave coffee, impressionism arts and alt
 ## Skills
 
 - Bachelor's degree in computer science, software engineering
-- 5+ years’ experience in Front End such as React/jQuery
-- Work in an Agile environmen
-- Elliminate technology debt
+- 7+ years’ experience in Front End such as React/jQuery
+- Work as a full stack engineer, covering frontend, backend and infrastructure
+- Work in an Agile environment, and contribute to stabilizing the team's velocity
+- Use AI coding agents (Claude Code) for implementation, review, research, design and CI integration, and share the practices within the team
+- Eliminate technology debt
 - Collaborate with backend engineers, mobile engineers, product managers and UI/UX designers
 - Build a Design System with UI/UX designers
 - Develop new product
 - Create basic codes and Deciding a policy of writing codes
 - Discuss API specification with backend engineers
-- Fix OSS libraries which is used in applications.
+- Read the internals of OSS libraries to solve performance issues and difficult bugs
 
 And I have listed up the skills which I used in my practical works below.
 
@@ -34,32 +37,66 @@ And I have listed up the skills which I used in my practical works below.
 
 | name | years |
 |------------|----|
-| TypeScript | 6 |
-| React.js | 6.5 |
+| TypeScript | 7 |
+| React.js | 7.5 |
+| AWS | 4.5 |
 | Go | 2 |
-| AWS | 2 |
+| Rust | 1 |
 
 
 ### Sub Skills
 
 |name|items|
 |---|---|
-|Js Related|Next.js, Nest.js, TypeOrm, jQuery, fabric.js, Node.js, Express, SWR, zod, Material UI, Ant Design, ApolloClient, emotion, styled-component ,dnd-kit, Vite, Vitest, Jest, Redux, redux-toolkit, React Select|
+|Js Related|Next.js, Nest.js, Hono, TypeOrm, jQuery, fabric.js, yjs, Node.js, Express, SWR, zod, Material UI, Ant Design, ApolloClient, emotion, styled-component ,dnd-kit, Vite, Vitest, Jest, Redux, redux-toolkit, React Select|
 |Go Related|Gorm, Echo|
 |AWS|VPC, S3, API Gateway, Lambda, EC2, ECS, ECR, Fargate, ALB, Route53, IAM, Cognito, RDS(MySQL|PostgreSQL), DynamoDB, Appsync, SES, Cloud Formation, Cloud Watch Logs, Cloud Watch Event, Sage Maker, CodePipeline, ElastiCache for Redis, CDK, SAM|
-|GCP|GCS, IAM, Speech To Text, Vision API|
+|GCP|GCS, IAM, Speech To Text, Vision API, Route Optimization API|
 |Database| MySQL, PostgreSQL, MongoDB, DynamoDB |
 |ML and Analysis| Python, Keras, Tensorflow, OpenCV, MeCab, Numpy|
-|Other|Twilio, Swagger, GraphQL, GitHub, GitHub Actions, Docker, Nginx, Apache, Ruby on Rails |
+|Other|Claude Code, WebAssembly, Twilio, Swagger, GraphQL, GitHub, GitHub Actions, Docker, Nginx, Apache, Ruby on Rails |
 
 
 ## Experiences
 
-### 2023.10 ~ current - Real Estate Start-up
-- Currently, I'm working in a start-up running private lodging service.
-- Introduce testing tools to improve the quolity of the code, which enables to test hooks with api stubing.
+### 2026.02 ~ current - Mobility / MaaS Company
+- Currently, I'm working as a freelance full stack engineer at a company providing an AI on-demand ride-sharing service and autonomous driving services for local communities.
+- Develop 3 applications cross-sectionally: the app for passengers, the app for drivers and the internal admin console for operation management.
+- There is almost no boundary between roles in the team. My work is roughly frontend : backend : infrastructure = 4 : 4 : 2.
+- Lead the route optimization area using Google Route Optimization API, and also lead the team in understanding and organizing the specifications.
+- Contribute to stabilizing the velocity of the scrum team (1 PO, 1 scrum master and 4 engineers, all of whom are full stack).
+  - Change the agenda of the daily scrum from each member's individual progress report to reviewing the progress of each PBI together as a team.
+  - Spread the mindset of prioritizing flow efficiency over resource efficiency.
+- Use Claude Code across implementation, review, research, design and CI integration. We teach each other how to use it in the retrospective, and the team's development speed has roughly doubled.
+
+Skills: TypeScript / React / Hono / AWS Lambda / Google Route Optimization API
+
+### 2025.04 ~ 2025.08 - Web Digital Note System for Schools
+- Develop a web digital note system provided by a major Japanese stationery manufacturer for educational institutions.
+- The purpose of the product is to digitalize the communication between teachers and students. It consists of a note-taking system for students and a management / correction system for teachers.
+- I joined as a member of a team with 4 frontend engineers and a similar number of backend engineers, and took the most leading position in the fabric.js and yjs areas.
+- Read the internals of fabric.js deeply in order to implement the drawing requirements.
+  - Improve rendering performance by optimizing image processing and the transparency handling of objects.
+  - Investigate and fix difficult bugs around rendering.
+- Implement realtime synchronization with yjs (CRDT).
+
+Skills: TypeScript / React / Next.js / styled-components / fabric.js / yjs
+
+### 2024.01 ~ 2026.01 - Working Holiday in Australia
+- Stayed in Australia on a working holiday, going back and forth between Australia and Japan.
+- Worked in agriculture as a seasonal worker in various regions and roles, in a multinational environment.
+- Continued to work remotely on the software engineering projects above during the same period.
+- TOEIC 890.
+
+### 2023.10 ~ 2024.08 - Real Estate Start-up
+- I worked in a start-up running a private lodging service.
+- Lead the frontend development, including deciding the coding conventions.
+- Introduce testing tools to improve the quality of the code, which enables to test hooks with api stubbing.
 - Experience short period release cycle, deploying once a week.
 - Separate modules into appropriate responsibilities and sizes to make it easy to test.
+- Experience backend development with Rust, and embed my own programming language into both frontend and backend via WebAssembly.
+
+Skills: TypeScript / React / Rust / WebAssembly
 
 ### 2022.10 ~ 2023.09 - Fintech Company
 - I joined a company having solution business to a Japanese huge bank as a freelance engineer.
@@ -93,5 +130,12 @@ And I have listed up the skills which I used in my practical works below.
 - I developed the features such as OCR for financial reports, valuation calculator for private companies and tool to assist for making contracts.
 
 ### 2014.04 ~ 2019.03 - Hokkaido University
-- I had been leaning computer science, especially natural language process　and machine learning.
+- I had been learning computer science, especially natural language process　and machine learning.
 - I developed the CNN model which can distinguish whether an input text is dajare or not. (Dajare is a kind of Japanese play of words)
+
+## Recent Interests
+
+- Improving the development process with AI agents
+- Route optimization and combinatorial optimization
+- Rust
+- Competitive programming
