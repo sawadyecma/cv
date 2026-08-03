@@ -2,61 +2,78 @@
 
 ## 基本情報
 
-|key|value|
-|----|----|
-|生年|1995年|
-|居住地|新潟県 燕市|
-|出身|静岡県 藤枝市|
-|語学|TOEIC 890点 / オーストラリア滞在経験あり|
+| key      | value                                                        |
+| -------- | ------------------------------------------------------------ |
+| 生年     | 1995年                                                       |
+| 居住地   | 新潟県 燕市（最寄駅: 燕三条駅）                              |
+| 出身     | 静岡県 藤枝市                                                |
+| 最終学歴 | 北海道大学 工学部 情報エレクトロニクス学科                   |
+| 語学     | TOEIC 890点 / IELTS Overall 6.0 / オーストラリア滞在経験あり |
+| 得意分野 | Webフロント・バックエンド実装                                |
+| 得意言語 | TypeScript・Go                                               |
 
 ## 概要
 
-- 静岡育ちなので温厚です。
+- 静岡育ちなので温厚である。
 - React/Canvas/Svgなどでぐりぐり動くGUIを作ることに興味関心が高い。
-- Webフロントが主ですが、バックエンド・インフラも担当可能。直近の案件では職務の境目なくフルスタックで開発しています。
-- 2024年から2026年にかけて、オーストラリアと日本を行き来しながらリモートで開発案件に従事していました。
-- Claude Codeを実装・レビュー・調査・設計・CI連携まで日常的に活用しています。
+- Webフロントが主だが、バックエンド・インフラも担当可能。直近の案件では職務の境目なくフルスタックで開発している。
+- Webフロント実装においては、共通処理や基盤の仕組みを整える実装業務が得意である。またスピードと品質を両立しながらの実装も得意である。
+- 状況に応じてフロントエンドだけでなく、Node.js/Go/Rustでのバックエンド実装も行う。対応可能範囲が広いのが強みである。
+- フロント/サーバー/インフラと一通り経験があるため、全体を俯瞰しつつの設計・実装や、職務領域を越えた協業も得意である。
+- デザイン・バックエンド・モバイルの各チームと意思疎通しながらの協業経験がある。
+- 先読み能力や、技術負債を定期的に減らす立ち回りが得意である。
+- コミュニケーション・ファシリテート能力。例: 議論が発散しないように会話を軌道修正するなど。
+- 落とし所を見つけるアイディア力と、それに至った背景・経緯を肉付けすることが得意である。
+- 2024年から2026年にかけて、オーストラリアと日本を行き来しながらリモートで開発案件に従事した。
+- Claude Codeを実装・レビュー・調査・設計・CI連携まで日常的に活用している。
 
-| スキル | 年数 |
-|------------|----|
-| TypeScript | 7年 |
-| React | 7.5年 |
-| AWS | 4.5年 |
-| Go | 2年 |
-| Python | 1年 |
-| Ruby on Rails | 1年 |
-| Rust | 1年 |
-
+| スキル        | 年数  |
+| ------------- | ----- |
+| TypeScript    | 7年   |
+| React         | 7.5年 |
+| AWS           | 4.5年 |
+| Go            | 2年   |
+| Python        | 1年   |
+| Ruby on Rails | 1年   |
+| Rust          | 1年   |
 
 ## スキル
-- 以下、実業務で使用した技術を列挙します。
+
+- 以下、実業務で使用した技術を列挙する。
 
 ### 言語
-Go | TypeScript | JavaScript | Rust | Ruby | Python | PHP  | Bash
+
+Go | TypeScript | JavaScript | Rust | Ruby | Python | PHP | Bash
 
 ### フレームワーク・ライブラリ
+
 Ruby on Rails | Django | Flask | CakePHP | Echo | Gorm |
 
 #### JS系
-React.js | Next.js | Nest.js | Hono | TypeOrm | jQuery | fabric.js | yjs | Node.js | Express | SWR | zod | Material UI | Ant Design | ApolloClient | styled-components | emotion
+
+React.js | Next.js | Nest.js | Hono | TypeOrm | jQuery | fabric.js | yjs | Node.js | Express | SWR | TanStack Query | zod | Redux | redux-toolkit | Zustand | dnd-kit | React Select | Material UI | Ant Design | ApolloClient | styled-components | emotion | Vite | Vitest | Storybook
 
 ### データベース
+
 MySQL | PostgreSQL | MongoDB | DynamoDB
 
 ### 機械学習・データ分析
+
 Keras | Tensorflow | OpenCV | MeCab | Numpy
 
 ### クラウド
 
 #### AWS
-VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | ALB | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | SES | Cloud Formation | Cloud Watch Logs | Cloud Watch Event | Sage Maker | ElastiCache for Redis | CDK | SAM
+
+VPC | S3 | API Gateway | Lambda | EC2 | ECS | ECR | Fargate | ALB | Route53 | IAM | Cognito | RDS(MySQL|PostgreSQL) | DynamoDB | AppSync | Amplify | SES | Cloud Formation | Cloud Watch Logs | Cloud Watch Event | Sage Maker | ElastiCache for Redis | CDK | SAM | CodePipeline | Aurora
 
 #### GCP
+
 GCS | IAM | Speech To Text | Vision API | Route Optimization API
 
 ### その他
-Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apache | WebAssembly
 
+Claude Code | Twilio | GraphQL | Swagger | GitHub | GitHub Actions | Docker | Nginx | Apache | WebAssembly | Serverless Framework | Dev Container | Sentry
 
 ## 主な業務経歴
 
@@ -74,15 +91,15 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
 - スクラムチームのベロシティ安定化に貢献
   - デイリースクラムのアジェンダを「個人の進捗報告」から「PBI単位の進捗をチーム全員で確認する」形式に変更
   - リソース効率よりもフロー効率を重視する考え方をチームに浸透
-- Claude Codeを実装・レビュー・調査・設計・CI連携まで全面的に活用。レトロスペクティブでチーム内に使い方を共有し合い、チームの開発スピードは体感2倍程度に向上
+- Claude Codeを実装・レビュー・調査・設計・CI連携まで全面的に活用。レトロスペクティブでチーム内に使い方を共有し合い、チームの開発スピードはストリーポイントベースで2倍程度に向上
 
 ---
 
 ### 2025.04 - 2025.08 | 教育向けSaaS（業務委託）
 
-- **役割**: フロントエンドエンジニア（メンバー。fabric.js・yjs領域では最もリードする立ち位置）
+- **役割**: フロントエンドエンジニア（メンバー。fabric.js・yjs領域では最もリードする立ち位置）。ライブラリの技術選定・デザインシステムの構築も担当
 - **体制**: フロントエンド 4名・バックエンド 4名程度
-- **技術**: TypeScript, React, Next.js, styled-components, fabric.js, yjs
+- **技術**: TypeScript, React, Next.js, styled-components, fabric.js, yjs, TanStack Query, Zustand, React Select, Vitest, Storybook
 
 **担当・成果**
 
@@ -92,6 +109,10 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
   - オブジェクトの透過処理や画像処理の最適化による描画パフォーマンスの改善
   - 難易度の高い描画系バグの調査・修正
 - yjs(CRDT)によるリアルタイムな同期を実装
+- fabric.js/yjs周りの技術検証を行い、実現可能性と使い勝手を織り込んだ実装提案を実施
+- 複雑な絞り込みやソート機能のあるテーブルUI・モーダルを実装
+- クライアントが実装パターンを確認するためのDevPanelを実装
+- 要件定義・基本設計に基づいたドキュメントの作成、およびコードレビュー
 
 ---
 
@@ -107,24 +128,28 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
 ### 2023.10 - 2024.08 | 民泊・不動産（業務委託）
 
 - **役割**: フロントエンドリード
-- **体制**: 小規模のスクラムチーム / リリース頻度は週に一度
-- **技術**: TypeScript, React(18系), Rust, WebAssembly
+- **体制**: 小規模のスクラムチーム（全体 20名程度 / チーム 5名）/ 1週間スプリントでリリース
+- **技術**: TypeScript, React(18系), useSWR, emotion, Vite/Vitest, Rust, Go, WebAssembly, MySQL
 
 **担当・成果**
 
 - 民泊の物件管理事業を行なっている企業に参画
 - フロントエンドをリードし、コード規則などを策定
 - 各スプリントの開始時に基本設計やドキュメントの作成も実施
-- Rustでのバックエンド開発も経験
+- チーム全員で機能設計や実装方針決めを行い実行
+- 清掃員向けのアプリや、管理のためのWebアプリを構築
+- 清掃員の自動アサイン機能や、独自の言語を実装して清掃料金の計算を行う機能を実装
 - 自作のプログラミング言語を作成し、WebAssemblyでフロントエンド・バックエンドともに組込
+- Rustでのバックエンド開発も経験。フロントエンドのタスクが少ないスプリントではバックエンドも担当
+- フロントエンドのバグ修正・リファクタリング
 
 ---
 
 ### 2022.10 - 2023.09 | 金融・相続ソリューション（業務委託）
 
-- **役割**: フロントエンドエンジニア（開発初期の立ち上げ）
-- **体制**: フロントエンド 3名・バックエンド 2.5名・インフラ 2名
-- **技術**: TypeScript, React(18系), Next.js
+- **役割**: フロントエンドエンジニア（開発初期の立ち上げ）。工程としては基本設計から入り、実装・運用まで担当
+- **体制**: フロントエンド 3名・バックエンド 2.5名・インフラ 2名（全体 20名程度）
+- **技術**: TypeScript, React(18系), useSWR, Ant Design, zod, Vite/Vitest, Next.js, Node.js, TypeOrm, PostgreSQL, Dev Container, GCP, Sentry
 
 **担当・成果**
 
@@ -141,34 +166,70 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
 ### 2020.04 - 2022.09 | 歯科医療SaaS（正社員）
 
 - **役割**: リードエンジニア（フロントエンド:バックエンド:インフラ:機械学習 = 4:4:1.5:0.5）
-- **技術**: Go, React, Python, AWS, PHP（詳細は下表）
+- **体制**: 全体 3〜10名 / チーム 2〜3名（プロダクトにより変動）
+- **技術**: Go, React, TypeScript, Python, AWS, PHP（詳細は下表）
 
 **担当・成果**
 
 - 日本人の健康寿命の向上に取り組むべく、歯科関連のスタートアップでSaaSを開発
 - 以下のプロダクトを横断して担当
 
-|開発したシステム|担当領域|技術スタック|
-|------------|-------|---------|
-| Web問診票 | フロントエンドをメイン。バックエンドは機能追加を担当。| React / ApolloClient / useContext / AWS Appsync / AWS DynamoDB |
-| Web予約 | PHP→Goのリプレイス。バックエンドを担当。| Go / echo / gorm / AWS ECS |
-| 診療資料のストレージ機能 | PHP→Goのリプレイス。バックエンド・APIとバッチ処理のインフラ構築を担当。認証周りの設計・実装も担当。 | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline |
-| 精密検査用ツール | PoC・API設計を担当。検査用の手書き文字認識モデルを作成。 | Python / Keras / Swagger |
-| マルチユーザー機能 | 新規バックエンド開発 | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis |
-| 画像判定のAI開発 | PoC・データ収集・データ加工・モデル作成 | Python / Tensorflow |
-| 電子カルテシステム | 設計・フロントエンド開発のチームリーダーを担当。fabric.jsを使ってcanvas上で動くGUIを実装。 | React / redux-toolkit / fabric.js |
+| 開発したシステム         | 担当領域                                                                                                                       | 技術スタック                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Web問診票                | 要件定義・ステークホルダーとの調整から設計・実装・テスト・運用まで担当。フロントエンドをメイン。バックエンドは機能追加を担当。 | React / ApolloClient / useContext / Go / AWS Appsync / AWS DynamoDB / AWS Lambda / AWS Amplify / Serverless Framework |
+| Web予約                  | PHP→Goのリプレイス。バックエンドを担当。                                                                                       | Go / echo / gorm / PHP / CakePHP / AWS ECS                                                                            |
+| 診療資料のストレージ機能 | PHP→Goのリプレイス。バックエンド・APIとバッチ処理のインフラ構築を担当。認証周りの設計・実装も担当。                            | Go / echo / gorm / AWS ECS / AWS S3 / AWS CodePipeline                                                                |
+| 精密検査用ツール         | PoC・API設計を担当。検査用の手書き文字認識モデルを作成。                                                                       | Python / Keras / Swagger                                                                                              |
+| マルチユーザー機能       | 新規バックエンド開発                                                                                                           | Go / AWS ECS / AWS Cognito / AWS CodePipeline / AWS ElastiCache for Redis                                             |
+| 画像判定のAI開発         | PoC・データ収集・データ加工・モデル作成                                                                                        | Python / Tensorflow                                                                                                   |
+| 電子カルテシステム       | 設計・フロントエンド開発のチームリーダーを担当。fabric.jsを使ってcanvas上で動くGUIを実装。                                     | React / redux-toolkit / fabric.js / dnd-kit / Material UI / Node.js / Express                                         |
+
+**プロダクト横断での主な取り組み**
+
+- Web問診票: サービス全体のワイヤーフレームを作成し、GraphQLスキーマを設計。患者回答画面のUIを実装
+- Web予約・診療資料のストレージ機能: PHPで動いているサーバーのコードをリファクタリングしつつGoにリプレイス
+  - DBアクセスでn+1問題が発生している箇所を全て解消
+  - PHPで実装されていた時には無かったテストコードを実装
+  - 既存のPHPサーバーとSPA(React)/Goサーバーで横断してできる認証の設計・実装
+  - バッチ処理をAWS ECSで構築
+- 電子カルテシステム: リードエンジニアとしてメンバーへのタスクをアサイン。コンポーネント・グローバルステートを設計
+  - Node.js/Expressによるモックサーバーの実装と、AWS EC2/ALBでのインフラ構築
+  - fabric.jsによるバウンディングボックス等が配置できるCanvasを実装
+
+---
+
+### 2020.09 - 2020.11 | 農業流通・在庫管理（業務委託）
+
+- **役割**: フルスタックエンジニア（認証基盤のリプレイスとIaC実装を担当）
+- **体制**: 全体 5名 / チーム 1名
+- **技術**: TypeScript, React, Apollo Client, Node.js, Nest.js, TypeOrm, PostgreSQL, AWS CDK
+- **備考**: 歯科医療SaaS（正社員）の在職期間と並行して従事
+
+**担当・成果**
+
+- 農作物流通事業者向けの在庫管理サービスを開発
+- サービスで使っているFirebase AuthenticationをAWS Cognitoへ乗り換え
+- AWS CDKを用いて、既存のIaCにCognitoを追加
+- AWSのSDKとReactを使って認証・認可を実装
+- PostgreSQL/Node.js/Nest.js/TypeOrmを用いたDB・サーバーサイド実装
+- 新規サービスでは、AWS CDK(TypeScript)を用いてサーバーサイドとフロントエンドのCodePipelineなどを実装
 
 ---
 
 ### 2019.07 - 2020.03 | M&A・FinTech スタートアップ（正社員）
 
 - **役割**: エンジニア（フロントエンド:バックエンド:データ分析 = 4:5:1）
-- **技術**: Ruby on Rails, React, jQuery
+- **体制**: 全体 3名 / チーム 1名
+- **技術**: Ruby on Rails, React, Redux, jQuery, MySQL
 
 **担当・成果**
 
 - 事業承継問題に切り込むべく、M&A関連のスタートアップでSaaSを開発
 - 企業価値算定・決算書OCR・契約書作成・ストックオプションの価値算定ツール等を開発
+- 決算書OCR機能・決算書入力機能を、要件定義/設計/実装/テストまで一貫して担当
+- 株式価値算定ツールの実装/テスト/運用を担当
+- 会計士や税理士へのヒアリング内容を、要件・設計へ落とし込み
+- React/Reduxを用いたUI設計・実装、Ruby on Railsを用いたサーバーサイド実装
 
 ---
 
@@ -180,7 +241,6 @@ Claude Code | Twilio | GraphQL | GitHub | GitHub Actions | Docker | Nginx | Apac
 
 - コンピューターサイエンスを学び、自然言語処理・ディープラーニングの分野で研究
 - ダジャレ判別モデルを実装
-
 
 ## 最近の興味
 
